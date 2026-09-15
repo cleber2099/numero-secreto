@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+
+<h1>Time</h1>
+
 <div>
     <img src="https://avatars.githubusercontent.com/u/56708380?v=4">
-
 </div>
